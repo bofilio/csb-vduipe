@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://bofilio.github.io/csb-vduipe/static/css/main.4298da69.chunk.css",
+    "main.js": "https://bofilio.github.io/csb-vduipe/static/js/main.d218dc7f.chunk.js",
+    "main.js.map": "https://bofilio.github.io/csb-vduipe/static/js/main.d218dc7f.chunk.js.map",
+    "runtime-main.js": "https://bofilio.github.io/csb-vduipe/static/js/runtime-main.aa2dac6a.js",
+    "runtime-main.js.map": "https://bofilio.github.io/csb-vduipe/static/js/runtime-main.aa2dac6a.js.map",
+    "static/js/2.39a7ae5b.chunk.js": "https://bofilio.github.io/csb-vduipe/static/js/2.39a7ae5b.chunk.js",
+    "static/js/2.39a7ae5b.chunk.js.map": "https://bofilio.github.io/csb-vduipe/static/js/2.39a7ae5b.chunk.js.map",
+    "index.html": "https://bofilio.github.io/csb-vduipe/index.html",
+    "static/css/main.4298da69.chunk.css.map": "https://bofilio.github.io/csb-vduipe/static/css/main.4298da69.chunk.css.map",
+    "static/js/2.39a7ae5b.chunk.js.LICENSE.txt": "https://bofilio.github.io/csb-vduipe/static/js/2.39a7ae5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa2dac6a.js",
+    "static/js/2.39a7ae5b.chunk.js",
+    "static/css/main.4298da69.chunk.css",
+    "static/js/main.d218dc7f.chunk.js"
+  ]
+}
